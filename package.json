@@ -1,0 +1,22 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "HTML, CSS, SASS",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/style.scss style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkairys/Project2.git"
+  },
+  "author": "Zygimantas Kairys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zkairys/Project2/issues"
+  },
+  "homepage": "https://github.com/zkairys/Project2#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  }
+}

@@ -1,2 +1,3 @@
 # Project2
-HTML, CSS
+
+HTML and CSS template using SASS.
